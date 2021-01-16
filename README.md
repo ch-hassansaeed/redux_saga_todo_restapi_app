@@ -2,6 +2,9 @@
 
 ##using React Rudex Saga & Rest API
 
+###Saga Middle ware,Ducks,Watcher Saga
+
+
 
 it require following packages:-
 ```
