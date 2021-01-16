@@ -2,7 +2,7 @@
 
 ## `using React Rudex Saga & Rest API`
 
-### `Saga Middle ware,Ducks,Watcher Saga`
+### `Saga Middleware,Ducks,Watcher Saga`
 
 
 
