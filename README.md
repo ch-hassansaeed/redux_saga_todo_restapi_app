@@ -1,8 +1,8 @@
 # TO-D0 Task Management System React App
 
-##using React Rudex Saga & Rest API
+## `using React Rudex Saga & Rest API`
 
-###Saga Middle ware,Ducks,Watcher Saga
+### `Saga Middle ware,Ducks,Watcher Saga`
 
 
 
